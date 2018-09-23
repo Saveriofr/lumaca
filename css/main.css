@@ -36,7 +36,14 @@
   width: 100%;
 }
 
-#fixo {
+
+
+.prodotti {
+  background: #f5f5f0;
+ }
+
+
+#fixom {
   background: url(../img/4-min.jpg) no-repeat center center fixed;
   display: table;
   height: 60%;
@@ -46,12 +53,7 @@
   
 }
 
-.prodotti {
-  background: #f5f5f0;
- 
- 
-}
-#fixa {
+#fixam {
   background: url(../img/16-min.jpg) no-repeat center center fixed;
   display: table;
   height: 60%;
@@ -60,7 +62,7 @@
   background-size: cover;
   
 }
-#fixi {
+#fixim {
   background: url(../img/18-min.jpg) no-repeat center center fixed;
   display: table;
   height: 60%;
